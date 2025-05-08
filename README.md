@@ -56,14 +56,6 @@ This assignment focuses on **emulating MIPS64 SIMD instructions** using inline a
 
 ---
 
-## 📁 Repository Structure
-
-- `Tomasulo/` – DLXview configuration files and assembly code
-- `MIPS64-MSA/` – C programs, compiled binaries, and output logs
-- `report.pdf` – Summary report with screenshots and explanations
-
----
-
 ## 👨‍💻 Skills
 
 - Dynamic scheduling and reservation station analysis  
